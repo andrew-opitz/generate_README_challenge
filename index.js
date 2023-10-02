@@ -21,7 +21,7 @@ function askQuestions() {
       type: 'list',
       name: 'license',
       message: 'Select license from list',
-      choices: ['MIT', 'Apacha 2.0', 'GPL']
+      choices: ['MIT', 'Apache 2.0', 'GNU GPL v3']
 
     }
     ])
