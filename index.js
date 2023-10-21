@@ -37,12 +37,12 @@ function askQuestions() {
 
 
 
-// TODO: Create a function to write README file
+// function to write README file
 function writeToFile(fileName, data) {
   fs.writeFileSync(path.join(__dirname, '/dist/', fileName),data)
 }
 
-// TODO: Create a function to initialize app
+// function to initialize app
 function init() {
   askQuestions().then(answers => {
     return generateMarkdown(answers)

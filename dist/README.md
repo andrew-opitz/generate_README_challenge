@@ -1,6 +1,6 @@
-# some title
+# example title
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
   ## Table of Contents
 
@@ -9,4 +9,4 @@
   - [Usage](#usage)
 
   ### Description
-  some descrip
+  example description
