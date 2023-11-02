@@ -23,6 +23,36 @@ function askQuestions() {
       message: 'Select license from list',
       choices: ['MIT', 'Apache 2.0', 'GNU GPL v3']
 
+    },
+    {
+      type: 'input',
+      name: 'installation',
+      message: 'Please enter any installation instructions for your projoect.'
+    },
+    {
+      type: 'input',
+      name: 'usage',
+      message: 'Please enter any usage information for your project.'
+    },
+    {
+      type: 'input',
+      name: 'contributing',
+      message: 'Please enter the contribution guidelines for your project.'
+    },
+    {
+      type: 'input',
+      name: 'tests',
+      message: 'Please enter the test instructions for your project.'
+    },
+    {
+      type: 'input',
+      name: 'github',
+      message: 'Please enter your Github username'
+    },
+    {
+      type: 'input',
+      name: 'email',
+      message: 'Please enter your email address.'
     }
     ])
 }
