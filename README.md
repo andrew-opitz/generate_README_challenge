@@ -9,6 +9,8 @@ Inquirer is required to run this application.
 ## Usage
 ![Alt Text](./images/readme%20screenshot.png)
 
+[Walkthrough Video](https://youtu.be/5xmDQxaDWaY)
+
 ## Credits
 N/A
 
