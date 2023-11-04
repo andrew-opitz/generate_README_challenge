@@ -1,6 +1,6 @@
-# Some Other Title
+# Example Title
 
-  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   
   ## Table of Contents
   
@@ -13,22 +13,22 @@
   - [Questions](#questions)
   
   ### Description
-  some description for the app
+  Example description
   
   ### Installation
-  node and inquirer 
+  example instructions
   
   ### Usage
-  used in terminal
+  example usage information
   
   ### License
-  GNU GPL v3
+  Apache 2.0
 
   ### Contributing
-  none
+  example contribution guidelines
 
   ### Tests
-  none
+  example test instructions
 
   ### Questions
   Link to my github
