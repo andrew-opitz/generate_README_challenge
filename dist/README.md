@@ -1,6 +1,6 @@
-# example title
+# Some Other Title
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
   
   ## Table of Contents
   
@@ -13,22 +13,22 @@
   - [Questions](#questions)
   
   ### Description
-  example descrption
+  some description for the app
   
   ### Installation
-  example instructions
+  node and inquirer 
   
   ### Usage
-  example information
+  used in terminal
   
   ### License
-  MIT
+  GNU GPL v3
 
   ### Contributing
-  example guidelines
+  none
 
   ### Tests
-  example test instructions
+  none
 
   ### Questions
   Link to my github
@@ -36,4 +36,4 @@
   
   Please email me with any additional questions at the following address.
 
-  example@email.com
+  andrew.opitz222@gmail.com
